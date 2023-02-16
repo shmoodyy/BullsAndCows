@@ -1,0 +1,57 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Bulls and Cows/*
+!/Bulls and Cows/task/
+/Bulls and Cows/task/*
+!/Bulls and Cows/task/src
+
+# Project exclude paths
+/Topics/Branching statements/The integer barrier/out/
+/Topics/Branching statements/The integer barrier/out/production/classes/
+/Topics/Math library/Existing methods/out/
+/Topics/Math library/Existing methods/out/production/classes/
+/Topics/Math library/Heron's formula/out/
+/Topics/Math library/Heron's formula/out/production/classes/
+/Topics/Math library/The angle between vectors/out/
+/Topics/Math library/The angle between vectors/out/production/classes/
+/Topics/Math library/Theory/out/
+/Topics/Math library/Theory/out/production/classes/
+/Topics/Math library/What does random produce/out/
+/Topics/Math library/What does random produce/out/production/classes/
+/Topics/Objects/Null or not/out/
+/Topics/Objects/Null or not/out/production/classes/
+/Topics/Objects/Theory/out/
+/Topics/Objects/Theory/out/production/classes/
+/Topics/Objects/What is the value of a field/out/
+/Topics/Objects/What is the value of a field/out/production/classes/
+/Topics/Random/Choose a correct invocation/out/
+/Topics/Random/Choose a correct invocation/out/production/classes/
+/Topics/Random/Gaussian random numbers/out/
+/Topics/Random/Gaussian random numbers/out/production/classes/
+/Topics/Random/Impossible to generate/out/
+/Topics/Random/Impossible to generate/out/production/classes/
+/Topics/Random/Pseudorandom sequences/out/
+/Topics/Random/Pseudorandom sequences/out/production/classes/
+/Topics/Random/Theory/out/
+/Topics/Random/Theory/out/production/classes/
+/Topics/StringBuilder/Concat all strings without digits/out/
+/Topics/StringBuilder/Concat all strings without digits/out/production/classes/
+/Topics/StringBuilder/Create an email/out/
+/Topics/StringBuilder/Create an email/out/production/classes/
+/Topics/StringBuilder/The actual number of characters/out/
+/Topics/StringBuilder/The actual number of characters/out/production/classes/
+/Topics/StringBuilder/Theory/out/
+/Topics/StringBuilder/Theory/out/production/classes/
